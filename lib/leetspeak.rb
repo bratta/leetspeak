@@ -1,4 +1,4 @@
-require 'lib/leetspeak/string'
+require 'leetspeak/string'
 
 module Leetspeak
   module String
