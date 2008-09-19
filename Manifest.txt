@@ -1,0 +1,10 @@
+History.txt
+License.txt
+Manifest.txt
+README.txt
+Rakefile
+lib/leetspeak.rb
+lib/leetspeak/string.rb
+setup.rb
+test/test_helper.rb
+test/test_leetspeak.rb
