@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "leetspeak"
-  s.version = "0.1.0"
+  s.version = "0.1.1"
   s.date="2008-09-19"
   s.authors = ["Tim Gourley"]
   s.description = "A fun utility to play with strings by converting them to leetspeak"
