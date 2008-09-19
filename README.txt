@@ -1,6 +1,6 @@
 = leetspeak
 
-* http://rubycrafting.com/leetspeak
+* http://github.com/bratta/leetspeak/tree/master
 
 == DESCRIPTION:
 
