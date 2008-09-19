@@ -12,7 +12,7 @@ An open mind. :)
 
 == INSTALL:
 
-sudo gem install leetspeak
+  sudo gem install bratta-leetspeak --source http://gems.github.com
 
 == USAGE:
 
